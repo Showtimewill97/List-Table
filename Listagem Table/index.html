@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;1,500&display=swap" rel="stylesheet">
+    <title>Lista de Nomes</title>
+</head>
+<body>
+    <header>
+        <h1>Listagem na Tabela</h1>
+    </header>
+    <div class="dados1" >
+        <form>
+            <label>Nome:</label>
+            <input type="text" name="nome" id="nome">
+            <label>Idade:</label>
+            <input type="number" name="idade" id="idade">
+            <button type="button" id="btns" onclick="tabela.salvar()">Salvar</button><!--botão salvar/atualizar-->
+            <div><button type="button" id="btnc" onclick="tabela.limpaCampos()">Cancelar</button></div>
+        </form>
+    </div><!--inserir dados-->
+    <div class="tabeladados">
+        <table class="table" id="table" border="1">
+            <thead>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Idade</th>
+                <th>Ações</th>
+            </thead> <!--cabeçalho da tabela-->
+                <tbody id="Tcorpo">
+                  
+                </tbody> <!--corpo da tabela-->
+        </table> <!--tabela de dados-->
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

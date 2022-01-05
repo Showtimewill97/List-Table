@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header{
+    background-color: rgb(51, 135, 247);
+}
+header h1 {
+    font-family: 400;
+    color: rgb(233, 230, 217);
+    padding: 10px 2%;
+    text-align: center;
+}
+.dados1{
+    padding: 30px 2%;
+    border: 1px solid #ccc;
+}
+.dados1 button{
+    display: block;
+    margin-top: 10px;
+    border: 0;
+    outline: 0;
+    background-color: rgb(51, 135, 247);
+    color: white;
+    border-radius: 3px;
+    font-weight: bold;
+    width: 80px;
+}
+.dados1 button:hover{
+   background-color:rgb(42, 115, 211);
+   
+}
+.tabeladados{
+    padding: 20px 2%;;
+}
+table{
+   border-collapse: collapse;
+   border: 1px solid #ccc;
+   width: 36%;
+}
+table th{
+    background-color: rgb(223, 217, 217);
+}
+table tbody{
+    text-align: center;
+    font-size: 15px;
+}
+table tbody td img {
+    width: 22px;
+    margin-right: 8px;
+    cursor: pointer;
+}

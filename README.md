@@ -12,15 +12,14 @@ As seguintes ferramentas foram usadas na construção deste projeto:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ![](https://img.shields.io/badge/--F7DF1E.svg?style=flat&logoColor=0D0D0D&logo=javascript)
 
 
-### Autor
----
+## Autor ✍
 
 <a href="https://www.linkedin.com/in/wilgner-souza-stw97/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/wilgnersouza" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/wilgnersouza" width="100px;" alt="Wilgner Souza"/>
  <br />
- <sub><b>Wilgner Souza</b></sub></a> <a href="https://www.linkedin.com/in/wilgner-souza-stw97/" title="Danki Code">💻</a>
+ <sub><b>Wilgner Souza</b></sub></a> <a href="https://www.linkedin.com/in/wilgner-souza-stw97/" title="Linkedin Wilgner">💻</a>
 
-Feito por Wilgner Souza 👋🏽 </br>
+Feito por Wilgner Souza 😉 </br>
 
 Entre em contato! 👇👇 </br>
 
